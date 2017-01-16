@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/menu/menu_intro.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/menu/menu_intro.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/menu/menu_favorites.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/menu/menu_favorites.xml"
+    }
+]

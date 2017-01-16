@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- global layout -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:background="@color/background_grey"
+    tools:context="com.capetrel.myweatherapp.IntroActivity">
+
+    <!-- Debut Calque bloc orange en haut -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background_green"
+        android:padding="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="vertical">
+
+        <!-- Debut Calque ville et meteo -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/text_view_city"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30sp"
+                android:textColor="@color/white"
+                android:text="ville"/>
+
+            <TextView
+                android:id="@+id/text_view_weather"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:text="météo"/>
+
+        </LinearLayout>
+        <!-- Fin Calque ville et meteo -->
+
+        <!-- Debut Calque image et temperature -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/background_green"
+            android:paddingRight="10dp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/image_view_icone_meteo"
+                android:contentDescription="icone meteo"
+                android:layout_width="100dp"
+                android:layout_height="80dp" />
+
+            <TextView
+                android:id="@+id/text_view_temperature"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:textColor="@color/white"
+                android:text="temp"
+               android:textSize="30sp"/>
+
+            <TextView
+                android:id="@+id/text_view_temp_symbol"
+                android:layout_width="60dp"
+                android:layout_height="wrap_content"
+                android:gravity="right"
+                android:textColor="@color/white"
+                android:text="° C"
+                android:textSize="30sp"/>
+
+        </LinearLayout>
+        <!-- Fin du Calque image et temperature -->
+
+    </LinearLayout>
+    <!-- Fin du Calque bloc orange en haut -->
+
+    <!-- titre des prévisions -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:baselineAligned="false"
+        android:background="@color/white">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:textColor="@color/colorAccent"
+            android:text="Prévisions :"/>
+
+    </LinearLayout>
+
+    <!-- Debut calque blanc qui inclut les 4 jours de prévision -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:baselineAligned="false"
+        android:background="@color/white">
+
+
+        <!-- Prévision 1 -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/text_view_day_one"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="jours1"/>
+
+            <ImageView
+                android:id="@+id/img_view_day_one"
+                android:layout_width="20dp"
+                android:layout_height="16dp"
+                android:contentDescription="icone météo jour un"/>
+
+            <TextView
+                android:id="@+id/text_view_temp_max_day_one"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="temp max"/>
+
+            <TextView
+                android:id="@+id/text_view_temp_min_day_one"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="temp min"/>
+
+        </LinearLayout>
+
+        <!-- Prévision 2 -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/text_view_day_two"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="jours2"/>
+
+            <ImageView
+                android:id="@+id/img_view_day_two"
+                android:layout_width="20dp"
+                android:layout_height="16dp"
+                android:contentDescription="icone météo jour deux"/>
+
+            <TextView
+                android:id="@+id/text_view_temp_max_day_two"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="temp max"/>
+
+            <TextView
+                android:id="@+id/text_view_temp_min_day_two"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="temp min"/>
+
+        </LinearLayout>
+
+        <!-- Prévision 3 -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/text_view_day_three"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="jours3"/>
+
+            <ImageView
+                android:id="@+id/img_view_day_three"
+                android:layout_width="20dp"
+                android:layout_height="16dp"
+                android:contentDescription="icone météo jour trois"/>
+
+            <TextView
+                android:id="@+id/text_view_temp_max_day_three"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="temp max"/>
+
+            <TextView
+                android:id="@+id/text_view_temp_min_day_three"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="temp min"/>
+
+        </LinearLayout>
+
+        <!-- Prévision 4 -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/text_view_day_four"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:text="jours4"/>
+
+            <ImageView
+                android:id="@+id/img_view_day_four"
+                android:layout_width="20dp"
+                android:layout_height="16dp"
+                android:contentDescription="icone météo jour quatre"/>
+
+            <TextView
+                android:id="@+id/text_view_temp_max_day_four"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="temp max"/>
+
+            <TextView
+                android:id="@+id/text_view_temp_min_day_four"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="temp min"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <!-- Fin calque blanc qui inclut les 4 jours de prévision -->
+
+    <!-- FloatingActionButton -->
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/add_favorite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:src="@drawable/ic_favorite_white_24dp" />
+
+</LinearLayout>

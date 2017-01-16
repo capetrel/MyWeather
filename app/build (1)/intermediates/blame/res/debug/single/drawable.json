@@ -1,0 +1,302 @@
+[
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_light.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_snowy_grey.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_snowy_grey.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_thunder_grey.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_thunder_grey.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/mr_ic_settings_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_settings_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_cloudy_grey.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_cloudy_grey.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_rainy_white.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_rainy_white.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_drizzle_white.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_drizzle_white.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_light.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_clear_night_grey.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_clear_night_grey.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_thunder_white.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_thunder_white.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_drizzle_grey.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_drizzle_grey.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_rainy_grey.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_rainy_grey.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/design_ic_visibility.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/drawable/design_ic_visibility.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_snowy_white.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_snowy_white.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_foggy_white.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_foggy_white.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_sunny_white.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_sunny_white.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_sunny_grey.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_sunny_grey.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/design/24.2.0/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_connecting_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_cloudy_white.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_cloudy_white.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_foggy_grey.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_foggy_grey.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/common_plus_signin_btn_icon_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/weather_clear_night_white.png",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/src/main/res/drawable/weather_clear_night_white.png"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/capetrel/GoogleDrive/coursCEFIM/android/projets/MyWeather/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable/common_google_signin_btn_text_light.xml"
+    }
+]
